@@ -1,0 +1,22 @@
+{
+  "name": "Aviator BIC Premium",
+  "short_name": "AviatorBIC",
+  "description": "Moteur d'analyse Aviator pour le Gabon",
+  "start_url": "/Aviatorbic/",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#009E3D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/009E3D/FFD700?text=BIC",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/009E3D/FFD700?text=BIC",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
